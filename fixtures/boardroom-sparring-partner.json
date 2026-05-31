@@ -1,0 +1,216 @@
+[
+  {
+    "id": "ai-governance-board-question",
+    "theme": "AI governance readiness",
+    "sector": "AI_PLATFORM",
+    "executiveBuyer": "CEO · CTO · CISO",
+    "boardQuestion": "Can we explain our AI controls without sounding like we are still improvising them?",
+    "priorityBand": "DEFEND",
+    "readinessScore": 86,
+    "downsideRiskUsd": 155000,
+    "investorConfidenceScore": 87,
+    "evidenceState": "CURRENT",
+    "pushbackSummary": "The control story is strong, but the board will still ask whether the registry and scorecard are keeping pace with new agent surfaces.",
+    "memoAnswer": "Yes. Lead with the scorecard, registry, and procurement-decision layers as the proof that AI governance is already operationalized.",
+    "nextMove": "Open the next board memo with the scorecard and registry pairing before expanding into broader AI claims.",
+    "companyTags": [
+      "IBM",
+      "watsonx",
+      "Protocol Suite",
+      "Registry"
+    ],
+    "relatedSurfaces": [
+      "watsonx.kineticgain.com",
+      "board.kineticgain.com",
+      "registry.kineticgain.com"
+    ]
+  },
+  {
+    "id": "platform-margin-board-question",
+    "theme": "Platform margin discipline",
+    "sector": "CLOUD_IDENTITY",
+    "executiveBuyer": "CFO · COO · CIO",
+    "boardQuestion": "Can we show where platform complexity is costing us money and what is already under control?",
+    "priorityBand": "DEFEND",
+    "readinessScore": 82,
+    "downsideRiskUsd": 170000,
+    "investorConfidenceScore": 83,
+    "evidenceState": "CURRENT",
+    "pushbackSummary": "Savings and admin control are credible, but the board will push on whether identity, release, and cloud evidence are actually connected.",
+    "memoAnswer": "Yes. Package Azure, Entra, Intune, release readiness, and protection posture as one savings-and-control answer.",
+    "nextMove": "Use one margin-discipline packet instead of five separate admin stories in the board deck.",
+    "companyTags": [
+      "Azure",
+      "Entra",
+      "Intune",
+      "Release"
+    ],
+    "relatedSurfaces": [
+      "release.kineticgain.com",
+      "guest.kineticgain.com",
+      "protect.kineticgain.com"
+    ]
+  },
+  {
+    "id": "fintech-board-question",
+    "theme": "FinTech trust and margin story",
+    "sector": "FINTECH",
+    "executiveBuyer": "CEO · CFO · COO",
+    "boardQuestion": "Can we show payment, treasury, and merchant risk as one coherent control plane instead of fragmented ops work?",
+    "priorityBand": "DEFEND",
+    "readinessScore": 84,
+    "downsideRiskUsd": 188000,
+    "investorConfidenceScore": 85,
+    "evidenceState": "CURRENT",
+    "pushbackSummary": "The cluster is strong, but high modeled downside means the board will still ask how fast issues would surface before margin erodes.",
+    "memoAnswer": "Yes. Present payments, treasury, merchant review, and KYC as one trust-and-margin system with clear exception routing.",
+    "nextMove": "Keep FinTech in the lead story, but rehearse downside and response-time answers before the meeting.",
+    "companyTags": [
+      "Payments",
+      "Treasury",
+      "Merchant Risk",
+      "KYC"
+    ],
+    "relatedSurfaces": [
+      "payments.kineticgain.com",
+      "treasury.kineticgain.com",
+      "merchant.kineticgain.com",
+      "kyc.kineticgain.com"
+    ]
+  },
+  {
+    "id": "quality-board-question",
+    "theme": "Regulated quality infrastructure",
+    "sector": "BIOTECH_DIAGNOSTICS",
+    "executiveBuyer": "COO · quality lead · operating partner",
+    "boardQuestion": "Can we defend the biotech quality stack as regulated infrastructure rather than a loose set of point tools?",
+    "priorityBand": "SHORE_UP",
+    "readinessScore": 76,
+    "downsideRiskUsd": 148000,
+    "investorConfidenceScore": 74,
+    "evidenceState": "CURRENT",
+    "pushbackSummary": "The quality stack is serious, but the board will ask for a tighter explanation of how CAPA, specimen, safety, and narrative review fit together.",
+    "memoAnswer": "Almost. The infrastructure is real, but it needs one cleaner packet before it becomes a lead board claim.",
+    "nextMove": "Condense the biotech surfaces into one packet with sharper sequencing and fewer jumps between themes.",
+    "companyTags": [
+      "GxP",
+      "CAPA",
+      "Specimen",
+      "Safety"
+    ],
+    "relatedSurfaces": [
+      "diagnostics.kineticgain.com",
+      "capa.kineticgain.com",
+      "specimen.kineticgain.com",
+      "safety.kineticgain.com"
+    ]
+  },
+  {
+    "id": "nonprofit-board-question",
+    "theme": "Nonprofit trust and reporting posture",
+    "sector": "NONPROFIT_FOUNDATION",
+    "executiveBuyer": "Executive director · COO · board finance chair",
+    "boardQuestion": "Can we show nonprofit systems as trust continuity and board-readable reporting, not just fundraising operations?",
+    "priorityBand": "SHORE_UP",
+    "readinessScore": 72,
+    "downsideRiskUsd": 90000,
+    "investorConfidenceScore": 70,
+    "evidenceState": "CURRENT",
+    "pushbackSummary": "The story is credible, but the board will still want a more concentrated explanation of outcomes, grants, stewardship, and appeals.",
+    "memoAnswer": "Mostly. The trust layer is there, but the answer becomes stronger when the cluster is compressed into a single board packet.",
+    "nextMove": "Roll the nonprofit surfaces into one board-facing trust summary before using them in a lead narrative.",
+    "companyTags": [
+      "Grants",
+      "Outcomes",
+      "Stewardship",
+      "Appeals"
+    ],
+    "relatedSurfaces": [
+      "grants.kineticgain.com",
+      "outcomes.kineticgain.com",
+      "stewardship.kineticgain.com",
+      "appeals.kineticgain.com"
+    ]
+  },
+  {
+    "id": "proptech-board-question",
+    "theme": "PropTech operating proof",
+    "sector": "PROPTECH",
+    "executiveBuyer": "COO · asset lead · portfolio operator",
+    "boardQuestion": "Can we defend property operations as a durable control lane, or is the proof still too thin?",
+    "priorityBand": "MUST_FIX",
+    "readinessScore": 62,
+    "downsideRiskUsd": 86000,
+    "investorConfidenceScore": 59,
+    "evidenceState": "STALE",
+    "pushbackSummary": "The direction is useful, but stale evidence weakens the answer enough that the board could dismiss it as incomplete.",
+    "memoAnswer": "Not yet. The lane should stay out of the lead story until the proof is refreshed and more tightly linked.",
+    "nextMove": "Refresh lease, tenant, and access proof before using PropTech as a serious board answer.",
+    "companyTags": [
+      "Lease",
+      "Tenant",
+      "Access"
+    ],
+    "relatedSurfaces": [
+      "lease.kineticgain.com",
+      "tenant.kineticgain.com",
+      "accesslog.kineticgain.com"
+    ]
+  },
+  {
+    "id": "robotics-board-question",
+    "theme": "Robotics control posture",
+    "sector": "ROBOTICS",
+    "executiveBuyer": "COO · robotics lead · safety committee",
+    "boardQuestion": "If asked about robotics today, do we have enough proof to answer confidently?",
+    "priorityBand": "MUST_FIX",
+    "readinessScore": 58,
+    "downsideRiskUsd": 78000,
+    "investorConfidenceScore": 55,
+    "evidenceState": "MISSING",
+    "pushbackSummary": "The theme is memorable, but the board would quickly find the proof density too thin to support a confident answer.",
+    "memoAnswer": "No. Keep robotics as a follow-on curiosity lane until the sensor and override proof is denser.",
+    "nextMove": "Raise proof density across sensor drift and human override before promoting robotics in a board setting.",
+    "companyTags": [
+      "Robotics",
+      "Sensors",
+      "Override"
+    ],
+    "relatedSurfaces": [
+      "robots.kineticgain.com",
+      "sensor.kineticgain.com",
+      "override.kineticgain.com"
+    ]
+  },
+  {
+    "id": "executive-intelligence-board-question",
+    "theme": "Executive intelligence operating system",
+    "sector": "EXECUTIVE_INTELLIGENCE",
+    "executiveBuyer": "CEO · CFO · investor relations",
+    "boardQuestion": "Can we explain Kinetic Gain as one executive operating system instead of a long list of disconnected tools?",
+    "priorityBand": "DEFEND",
+    "readinessScore": 90,
+    "downsideRiskUsd": 205000,
+    "investorConfidenceScore": 93,
+    "evidenceState": "CURRENT",
+    "pushbackSummary": "The meta story is strong, but it stays credible only if the underlying products keep landing cleanly and roll up into one answer.",
+    "memoAnswer": "Yes. Lead with risk, savings, investment priority, and board narrative as the four outputs the estate resolves.",
+    "nextMove": "Use the executive-intelligence spine first, then branch into the strongest vertical packets only as supporting proof.",
+    "companyTags": [
+      "Board Brief",
+      "Diligence",
+      "Registry",
+      "Radar",
+      "Timing",
+      "Reality"
+    ],
+    "relatedSurfaces": [
+      "board.kineticgain.com",
+      "diligence.kineticgain.com",
+      "registry.kineticgain.com",
+      "radar.kineticgain.com",
+      "timing.kineticgain.com",
+      "reality.kineticgain.com"
+    ]
+  }
+]
